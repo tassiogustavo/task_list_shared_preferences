@@ -1,16 +1,11 @@
-# task_list_sharedpreferences
+# Lista de tarefas com Shared Preferences
 
-A new Flutter project.
+## 📷Video do Projeto
+https://github.com/tassiogustavo/task_list_sharedpreferences/assets/70405308/bdf9a1d3-d716-45cf-8136-2c90639a5835
 
-## Getting Started
+Bem-vindo ao repositório da Lista de tarefas com Shared Preferences! Este projeto é um aplicativo desenvolvido para estudos da persistencia de dados no Flutter. Neste caso utilizando Shared Preferences armazenando os dados na memória
 
-This project is a starting point for a Flutter application.
+## Funcionalidades Principais
+* CRUD Completo de tarefas
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Design fácil e objetivo
